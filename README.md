@@ -2,7 +2,7 @@
 
   Eu sou Gilyan Santos, ou Gilyan Ceos, como preferir.
 
-  Na jornada da aprimoração como desenvolvedor de software, mantenho meu foco na integração de sistemas e aplicações web funcionais. Trabalho com tecnologias como Python, Flask, .NET e JavaScript, além de possuir experiência com ferramentas de design e edição gráfica e de vídeo. Também sou entusiasta do uso de **Inteligência Artificial** como ferramenta auxiliar em processos de desenvolvimento, planejamento, testes e geração de conteúdo técnico.
+  Na jornada da aprimoração como desenvolvedor de software, mantenho meu foco na integração de sistemas e aplicações web funcionais. Trabalho com tecnologias como Python, Flask, .NET e JavaScript, além de possuir experiência com ferramentas de design, edição gráfica e de vídeo. Também sou entusiasta do uso de **Inteligência Artificial** como ferramenta auxiliar em processos de desenvolvimento, planejamento, testes e geração de conteúdo técnico.
   Busco sempre soluções práticas, com código bem estruturado, visando sempre o excepcional nos resultados.
 
 
@@ -12,7 +12,7 @@
     Sincronizador de playlists entre Spotify e YouTube. Utiliza autenticação OAuth 2.0, Flask, YouTube Data API e Spotify Web API.
 
 - **[TasTock](https://github.com/GilyanCeos/TasTock)**  (Privado)
-    Gerenciador de tarefas com controle de tempo e prioridades, focado em produtividade pessoal com interface clara e responsiva.
+    Gerenciador de tarefas com controle de tempo e prioridades, focado em produtividade com interface clara e responsiva.
   
 
 ### 🧾 Certificações e formação contínua
