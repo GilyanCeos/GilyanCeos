@@ -2,17 +2,21 @@
 
   Eu sou Gilyan Santos, ou Gilyan Ceos, como preferir.
 
-  Na jornada da aprimoração como desenvolvedor de software, mantenho meu foco na integração de sistemas e aplicações web funcionais. Trabalho com tecnologias como Python, Flask, .NET e JavaScript, além de possuir experiência com ferramentas de design, edição gráfica e de vídeo. Também sou entusiasta do uso de **Inteligência Artificial** como ferramenta auxiliar em processos de desenvolvimento, planejamento, testes e geração de conteúdo técnico.
-  Busco sempre soluções práticas, com código bem estruturado, visando sempre o excepcional nos resultados.
+  Atuo como FullStack, com foco em aplicações web, desktop e mobile. Tenho experiência prática com Python, C#, TypeScript e React, atuando no desenvolvimento de projetos completos com integrações de APIs (YouTube, Spotify), testes automatizados (Jest, Cypress, xUnit) e prototipação em Figma. Background em design gráfico e produção audiovisual,
+unindo técnica e estética para soluções completas.
+
+  Minha trajetória parte da área da educação, onde atuei em pesquisas científicas voltadas a metodologias de ensino e relações entre campos artísticos. Essa experiência me proporcionou habilidades em análise crítica, contextualização de problemas, aplicação de métodos de pesquisa e adaptação de soluções às necessidades específicas de cada público, que hoje aplico no desenvolvimento de software para criar soluções assertivas e centradas no usuário.
+  
+  Também sou entusiasta do uso de **Inteligência Artificial** como ferramenta auxiliar em processos de desenvolvimento, planejamento, testes e geração de conteúdo técnico. Busco sempre soluções práticas, com código bem estruturado, visando sempre o excepcional nos resultados.
 
 
 ### 🚧 Projetos em desenvolvimento
 
-- **[PlaylistPort](https://github.com/GilyanCeos/repo-playlistport-v0)**  (Privado)
+- **[PlaylistPort](https://github.com/GilyanCeos/PlaylistPort.-v1.0):**
     Sincronizador de playlists entre Spotify e YouTube. Utiliza autenticação OAuth 2.0, Flask, YouTube Data API e Spotify Web API.
 
-- **[TasTock](https://github.com/GilyanCeos/TasTock)**  (Privado)
-    Gerenciador de tarefas com controle de tempo e prioridades, focado em produtividade com interface clara e responsiva.
+- **[TasTock](https://github.com/GilyanCeos/TasTock-Console):**
+    Gerenciador de tarefas em C# (.NET 9) para controle de estoque e vendas, usando EF Core, SQLite e LINQ.
   
 
 ### 🧾 Certificações e formação contínua
@@ -20,7 +24,10 @@
   - **Design de Web – Microlins (2009)**  
     Fundamentos de HTML, CSS, usabilidade e design gráfico aplicado à web.
 
-  - **Bootcamp End-to-End Developer – DIO + WEX (em andamento)**  
+  - **Licenciatura em Música - PUCPR (2024)**
+    Práticas curriculares, fundamentos teóricos e pedagógicos, fundamentos de pesquisa, fundamentos tecnológicos,       metodologias criativas e aplicadas ao uso tecnológico, prática docente em contextos educativos reais, projetos sociais e ensino musical.
+
+  - **Bootcamp End-to-End Developer – DIO + WEX (2025)**  
     Formação prática com foco em desenvolvimento fullstack, integração de serviços, deploy e versionamento profissional de código.
 
 
@@ -32,6 +39,25 @@
   - **Ferramentas:** Git, Docker, VS Code, Reaper, Krita, Gimphoto, Klaviyo  
   - **Sistemas operacionais:** Linux, Windows
 
+  - **Linguagens e Plataformas:** Python 3, C# (.NET 9, WPF), JavaScript (ES6+), TypeScript,
+HTML5, CSS3 (SASS)
+  - **Front-end & UI:** React (Hooks, Context API), Tailwind CSS, MAUI (.NET Multi-platform App
+UI)
+  - **Back-end & APIs:** Flask (Python), Node.js (básico), Entity Framework Core (ORM – C#),
+Requests (Python), python-dotenv / dotenv
+  - **Mobile / Desktop:** Kivy (Python, mobile), MAUI (desktop com C#)
+  - **APIs e Integrações:** Spotify Web API, YouTube Data API v3, OAuth 2.0 (para Spotify e
+YouTube), Klaviyo, Integração com APIs REST (customizadas e externas)
+  - **Testes:** Jest (unitários – JavaScript/TypeScript), Cypress (end-to-end), xUnit (C#)
+  - **Ferramentas de Desenvolvimento:** Git & GitHub (com CI/CD), Docker, VS Code, SQL
+Server, MongoDB, JSON e SQLite
+  - **Design, UX/UI & Prototipação:** Figma, Photoshop, Illustrator, CorelDRAW, Figma, Krita,
+Gimphoto, Prototipagem responsiva, wireframes, identidade visual, criação de materiais
+gráficos: social media, impressos, banners, cardápios, flyers.
+  - **Audiovisual e Automação:** Adobe Premiere, After Effects, Reaper, FL Studio, Direção de
+fotografia, Edição, VFX e Animações 2D.
+  - **Sistemas Operacionais:** Linux Lite, Windows
+
 
 ### ⚙️ Estatísticas
 
@@ -41,21 +67,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilyanCeos&layout=compact&theme=github_dark)
 
-### 📌 Planejamento e próximos passos
-
-#### 🔄 Evolução dos projetos
-
-- **PlaylistPort**  
-  - Finalizar sincronização reversa (YouTube → Spotify)  
-  - Refatorar autenticação OAuth 2.0 para sessões persistentes  
-  - Melhorar interface para escolha e visualização de playlists  
-  - Ajustar lógica de busca automática de vídeos com otimização por nome/artista
-
-- **TasTock**  
-  - Automatizar controle de estoque com entrada/saída de materiais  
-  - Aperfeiçoar o sistema de fechamento de caixa com cálculos contábeis integrados  
-  - Implementar segmentação de e-mails integrada ao Klaviyo  
-  - Desenvolver painéis e relatórios gerenciais para vendas e fluxo de caixa
 
 #### 📚 Consolidação técnica e aprendizado
 
